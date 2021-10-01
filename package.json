@@ -19,9 +19,12 @@
   },
   "homepage": "https://github.com/Jukejoe/learn-html-css-js#readme",
   "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "postcss": "^8.3.8",
     "vite": "^2.6.2"
   },
   "dependencies": {
-    "date-fns": "^2.24.0"
+    "date-fns": "^2.24.0",
+    "tailwindcss": "^2.2.16"
   }
 }

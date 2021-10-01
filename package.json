@@ -1,0 +1,19 @@
+{
+  "name": "learn-html-css",
+  "version": "1.0.0",
+  "description": "Learn HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jukejoe/learn-html-css-js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jukejoe/learn-html-css-js/issues"
+  },
+  "homepage": "https://github.com/Jukejoe/learn-html-css-js#readme"
+}
